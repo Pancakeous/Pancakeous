@@ -13,3 +13,6 @@
 <img src="https://marketing.dcassetcdn.com/blog/2016/January/2016-web-design-trends/CSS3Logo_300.png?size=32" height="70px" align="center" title="CSS - Beginner">
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png?size=32" height="70px" align="center" title="Node.js - Beginner">
 </div>
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Pancakeous=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
