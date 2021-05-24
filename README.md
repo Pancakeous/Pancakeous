@@ -5,5 +5,5 @@
 #### My discord bot: [Cupcake](https://discord.gg/FwxBp6Mh3Z) (yes, another "MuLtIfUnCtIoNaL" discord bot with shitty code...)
 
 ### Currently learning
-<img src="https://freesvg.org/img/js_logo.png" hight="40em">
+<img src="https://freesvg.org/img/js_logo.png" hight="40px">
 
