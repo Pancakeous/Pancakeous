@@ -5,7 +5,7 @@
 #### My discord bot: [Cupcake](https://discord.gg/FwxBp6Mh3Z) (yes, another "MuLtIfUnCtIoNaL" discord bot with shitty code...)
 
 ### Currently learning
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png?size=32" height="70px">
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png?size=32" height="70px">
-<img src="https://marketing.dcassetcdn.com/blog/2016/January/2016-web-design-trends/CSS3Logo_300.png?size=32" height="70px">
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png?size=32" height="70px">
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png?size=32" height="70px" align="center">
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png?size=32" height="70px" align="center">
+<img src="https://marketing.dcassetcdn.com/blog/2016/January/2016-web-design-trends/CSS3Logo_300.png?size=32" height="70px" align="center">
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png?size=32" height="70px" align="center">
